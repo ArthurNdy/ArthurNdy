@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @ArthurNdy
 - 👀 I’m interested in tech as a whole
-- 🌱 I’m currently learning ruby on rails
+- 🌱 I’m currently learning reactjs
+-
