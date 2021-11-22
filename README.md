@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ArthurNdy
-- 👀 I’m interested in tech as a whole
-- 🌱 I’m currently learning reactjs
--
+- 👀 MSc student enrolled in the Paris Digital Lab
+- 🌱 Currently learning Reactjs Typescript
+- 🚀 Looking for a 3 to 6-month internship in a Software engineering start-up ! (US/UK/AUS/CAN)
