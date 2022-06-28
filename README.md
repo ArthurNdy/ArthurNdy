@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ArthurNdy
-- 👀 MSc student enrolled in the Paris Digital Lab
-- 🌱 Currently learning Reactjs Typescript
-- 🚀 Looking for a 3 to 6-month internship starting february 2022 in a Software engineering start-up ! (US/UK/AUS/CAN)
+- 👀 MSc student enrolled in the Paris Digital Lab at Centrale Supélec
+- 🌱 Currently learning React, Typescript and NodeJS
+- 🚀 Working as a Software engineering in an australian start-up (Feb 2022 - August 2022)
