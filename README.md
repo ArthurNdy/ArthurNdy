@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ArthurNdy
 - 👀 MSc student enrolled in the Paris Digital Lab at Centrale Supélec
-- 🌱 Currently learning React, Typescript and NodeJS
-- 🚀 Working as a Software engineering in an australian start-up (Feb 2022 - August 2022)
+- 🚀 Currently developping for Theodo France for my end-of-studies internship
+- ⚙️ Currently learning Next.JS (React), PHP Symfony and Sylius
