@@ -1,30 +1,20 @@
 
-<h3 align="center"> 👋 Hi </h3>
+# 👋 Hi
 
-<p align="center">
-💻 I'm a full stack web developer learning to develop expertise in sustainability and green IT 🌱
-</p>
+**💻 I'm a full stack web developer learning to develop expertise in sustainability and green IT 🌱**
 
-<p align="center">
-⚙️ Currently developping for Theodo France for my end-of-studies internship
-</p>
+**⚙️ Currently developping at Theodo Group**
 
-<p align="center">
-📚 MSc student enrolled in the Paris Digital Lab at Centrale Supélec
-</p>
+**📚 MSc student enrolled in the Paris Digital Lab at Centrale Supélec**
 
-
-<br/>
-<h3 align="center">
-Currently working/learning about</h3>
-
-## FRONT
+### FRONT
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
-## BACK
+### BACK
 ![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
 ![Sylius](https://img.shields.io/badge/-Sylius-000.svg?logo=data:image/svg%2bxml;base64,PHN2ZyBoZWlnaHQ9IjcyNiIgdmlld0JveD0iLjcgLjcgMTQxLjUgNDEuNiIgd2lkdGg9IjI1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0ibTUyLjUgMjkuM3MyLjUgMi45IDYuMSAyLjljMi4zIDAgNC4xLTEuNCA0LjEtMy42IDAtNS4xLTExLjctNC4zLTExLjctMTEuOCAwLTMuNiAzLjItNi41IDcuNy02LjUgMi42IDAgNi45IDEuMiA2LjkgNC41djJoLTMuMnYtMS4xYzAtMS4zLTEuOC0yLjItMy43LTIuMi0yLjYgMC00LjIgMS40LTQuMiAzLjMgMCA0LjkgMTEuNiAzLjggMTEuNiAxMS43IDAgMy43LTIuOSA2LjktNy43IDYuOS01LjEgMC04LTMuNi04LTMuNnptMTkuMiA5LjljMS4zIDAgMi40LTEgMy0yLjVsLjgtMS45LTUuOS0xMy43Yy0uMi0uNS0uNS0uNy0xLjEtLjdoLS40di0yLjhoMmMxLjQgMCAxLjkuNCAyLjUgMS43bDMuOSA5LjhjLjMuOS42IDIuMS42IDIuMWguMXMuMi0xLjIuNi0yLjFsMy42LTkuOGMuNS0xLjQgMS4xLTEuNyAyLjUtMS43aDJ2Mi44aC0uNGMtLjUgMC0uOS4xLTEuMS43bC03IDE2LjljLTEuMSAyLjctMy4yIDQuMS01LjYgNC4xLTIuNiAwLTQuMS0xLjctNC4xLTEuN2wxLjQtMi40Yy4xIDAgMS4xIDEuMiAyLjYgMS4yem0xNy41LTI0LjljMC0uNS0uMy0uOC0uOC0uOGgtMS40di0yLjhoMy4zYzEuNSAwIDIuMi43IDIuMiAyLjJ2MTguNGMwIC41LjMuOC44LjhoMS40djIuOGgtMy4zYy0xLjUgMC0yLjItLjctMi4yLTIuMnptMTAuMyA2LjhjMC0uNS0uMy0uOC0uOC0uOGgtMS40di0yLjhoMy4zYzEuNSAwIDIuMi43IDIuMiAyLjJ2MTEuNWMwIC41LjMuOC44LjhoMS40djIuOGgtMy4zYy0xLjUgMC0yLjItLjctMi4yLTIuMnptLjEtMTAuNGgzdjMuNWgtM3ptOS42IDEwLjRjMC0uNS0uMy0uOC0uOC0uOGgtMS40di0yLjhoMy4zYzEuNiAwIDIuMi43IDIuMiAyLjF2OC4yYzAgMi40LjUgNC4zIDMuMiA0LjMgMy42IDAgNS43LTMuMSA1LjctNi41di04LjFoMy4zdjEzLjdjMCAuNS4zLjguOC44aDEuNHYyLjhoLTMuMmMtMS41IDAtMi4yLS43LTIuMi0xLjl2LS43LTFoLS4xYy0uNyAxLjctMi45IDQtNi40IDQtMy45IDAtNS45LTIuMS01LjktNi42di03LjV6bTIxLjUgOC45czIuMSAyLjYgNS4yIDIuNmMxLjYgMCAzLS43IDMtMi4yIDAtMy4xLTkuNS0yLjgtOS41LTguNCAwLTMuMyAyLjktNC45IDYuNC00LjkgMi4xIDAgNS43LjcgNS43IDMuNHYxLjZoLTN2LS45YzAtMS0xLjUtMS41LTIuNi0xLjUtMiAwLTMuMi43LTMuMiAyLjEgMCAzLjMgOS41IDIuNiA5LjUgOC40IDAgMy4xLTIuNyA1LjEtNi40IDUuMS00LjYgMC02LjktMy02LjktM3oiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJtNi41IDI1LjEgOC4zIDE2LjYgMTUuNC4xIDMuNy01LjN6IiBmaWxsPSIjMmViOTliIi8+PHBhdGggZD0ibS43IDI2LjkgMTEuMiAxNS40aDE4LjNsMy43LTUuN3ptMTMuNC0xOC43IDUuNSA0LjIgNC45LTkuNC0xLjctMS4xeiIgZmlsbD0iIzE3OWU4MiIvPjxwYXRoIGQ9Im0zMC4yIDQyLjMtMTYuMS0zNC4xIDMuNS0yLjUgMTguNyAyNy4yem0tOC45LTM5LjMgMTAuNSA4LjUtNy40LTEwLjh6IiBmaWxsPSIjMmViOTliIi8+PC9zdmc+)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgreSQL)
